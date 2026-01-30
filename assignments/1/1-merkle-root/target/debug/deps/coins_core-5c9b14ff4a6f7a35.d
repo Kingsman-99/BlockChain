@@ -1,0 +1,10 @@
+/home/henry-peters/Desktop/merkle_root_impl/merkle_root/target/debug/deps/coins_core-5c9b14ff4a6f7a35.d: /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/lib.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/macros.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/enc.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/hashes.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/prelude.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/ser.rs
+
+/home/henry-peters/Desktop/merkle_root_impl/merkle_root/target/debug/deps/libcoins_core-5c9b14ff4a6f7a35.rmeta: /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/lib.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/macros.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/enc.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/hashes.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/prelude.rs /home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/ser.rs
+
+/home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/lib.rs:
+/home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/macros.rs:
+/home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/enc.rs:
+/home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/hashes.rs:
+/home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/prelude.rs:
+/home/henry-peters/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-core-0.8.7/src/ser.rs:
